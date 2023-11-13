@@ -1,6 +1,11 @@
-# One Shot To-Do List 🚀
+# One Shot To-Do List🚀
 
-I created this project in a few hours to practice and refresh my web development skills. This simple to-do list application allows users to quickly add and delete tasks with some additional features. 
+I created this project in a few hours to practice and revisit some web development technologies.
+
+## Introduction
+
+"One Shot To-Do List" is a simple to-do list application where you can quickly manage your tasks. The name is inspired by "One Shot" adventures in Dungeons & Dragons, emphasizing the swift and straightforward nature of completing tasks.
+
 
 ## Features 🌟
 
