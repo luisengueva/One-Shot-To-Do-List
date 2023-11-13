@@ -1,4 +1,4 @@
-# One Shot To-Do List🚀
+# One Shot To-Do-List🚀
 
 I created this project in a few hours to practice and revisit some web development technologies.
 
